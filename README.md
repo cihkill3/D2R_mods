@@ -20,7 +20,9 @@ https://drive.google.com/file/d/1Tw9UWiZZO-AIen8PceenbO9P8tuLhROQ/view?usp=shari
 
 ## 모드 파일 저장 위치
 압축풀고 D2R 폴더에 복사하기
+
 C:\Program Files (x86)\Diablo II Resurrected\mods\JLee\JLee.mpq\data
+
 위 폴더가 있어야함
 <br><br><br>
 
