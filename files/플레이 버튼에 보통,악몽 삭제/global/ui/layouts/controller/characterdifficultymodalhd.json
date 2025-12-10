@@ -1,0 +1,25 @@
+{
+    "basedOn": "CharacterDifficultyModalHD.json",
+    "type": "CharacterDifficultyModal", "name": "CharacterDifficultyModal",
+    "fields": {
+        "defaultWidget": "Hell",
+    },
+    "children": [
+        {
+            "type": "ImageWidget", "name": "Frame",
+            "children": [
+                {
+                    "type": "TextBoxWidget", "name": "Prompt",
+                },
+                {
+                    "type": "ButtonWidget", "name": "Hell",
+                    "fields": {
+                        "navigation": {
+                            "up": { "name": "Nightmare" },
+                        },
+                    }
+                },
+            ]
+        },
+    ]
+}
