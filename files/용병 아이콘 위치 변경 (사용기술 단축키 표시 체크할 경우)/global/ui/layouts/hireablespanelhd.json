@@ -2,15 +2,15 @@
     "type": "HireablesPanel", "name": "HireablesPanel",
     "fields": {
         "priority": -100,
-        "rect": { "x": 50, "y": 100 }, //"rect": { "x": 46, "y": 266 },
-        "nextIconOffset": { "y": 140 }, //"nextIconOffset": { "y": 204 },
-        "summonsUseSecondSet": true, //"summonsUseSecondSet": true,
+        "rect": { "x": 46, "y": 266 },
+        "nextIconOffset": { "y": 204 },
+        "summonsUseSecondSet": true,
         "nameAlternationSecondSetY": 0,
-        "secondSetPosition": { "x": 1090, "y": 1730 },
-        "nextIconOffsetSecondSet": { "x": 925, "y": -1350 },
-        "tooltipOffset": { "x": 835, "y": -1350 },
-        "baseTransparency": 0.85,
-        "mercenaryIconTooltipMouseoverDelay": 10000, //10,
+        "secondSetPosition": { "x": 1150, "y": 1400 },
+        "nextIconOffsetSecondSet": "$SecondSetIconOffset",
+        "tooltipOffset": { "x": 160, "y": 115 },
+        "baseTransparency": 0.65,
+        "mercenaryIconTooltipMouseoverDelay": "$INT_MAX",
         "allyPlayerFontColor": "$FontColorGold",
         "allyNPCFontColor": "$FontColorVeryLightGray",
 //        "testPartyIcons": true
@@ -22,8 +22,7 @@
                 {
                     "type": "TextBoxWidget", "name": "Name",
                     "fields": {
-                        "anchor": { "x": 0, "y": 1.7 }, // "anchor": { "x": 0, "y": 0.98 },
-                        "rect": { "x": 130, "y": -190 }, // add by wani
+                        "anchor": { "x": 0, "y": 0.98 },
                         "style": {
                             "fontFace": "Formal",
                             "fontColor": "$FontColorGold",
@@ -36,24 +35,20 @@
                 {
                     "type": "TextBoxWidget", "name": "Counter",
                     "fields": {
-                        "rect": { "x": 105, "y": 70 }, //"rect": { "x": 12, "y": 70 },
+                        "rect": { "x": 12, "y": 70 },
                         "style": {
                             "pointSize": "$MediumFontSize",
                             "spacing": "$MinimumSpacing",
-                            "alignment": { "h": "right" }, // add by wani
                         },
                     }
                 },
                 {
                     "type": "HealthBarWidget", "name": "Health",
                     "fields": {
-                       "rect": { "x": 130, "y": 55, "width": 210, "height": 40 }, // "rect": { "y": -19, "width": 120, "height": 18 },
-                       "transparency": 0.80, //0.95,
+                        "rect": { "y": -37, "width": 120, "height": 36 },
+                        "transparency": 0.95,
                         "backgroundTransparency": 0.95,
-                        "warningHealthPercent": 70,
-                        "criticalHealthPercent": 40,
-                        "normalColor": { "r": 29, "g": 219, "b": 22 },
-                    },
+                    }
                 },
             ]
         },
