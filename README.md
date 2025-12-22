@@ -29,3 +29,18 @@ C:\Program Files (x86)\Diablo II Resurrected\mods\JLee\JLee.mpq\data
 ## 키 세팅 저장위치
 C:\Users\cihki\Saved Games\Diablo II Resurrected
 <br><br><br>
+
+## 디아2 버프 타이머
+https://github.com/Lodofin32/D2R_Counter
+
+F3 :"CounterPosX": 860,
+    "CounterPosY": 1100,
+    "StartTime": 190,
+	"FontSize": 50,
+	"BorderThickness": 10,
+	
+F6 :"CounterPosX": 960,
+    "CounterPosY": 1100,
+    "StartTime": 430,
+	"FontSize": 50,
+	"BorderThickness": 10,
