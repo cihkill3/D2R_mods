@@ -7,15 +7,15 @@
 <br><br><br>
 
 ## 모드 생성 선희 프로그램
-seonheeD2Rskingenerator_v0.81_JLee.zip
+seonheeD2Rskingenerator_v0.95 JLee 260306.zip
 
-https://drive.google.com/file/d/1i6uYV-1KG12ZPvyhifQqMJCvAOyi6kzF/view?usp=sharing
+https://drive.google.com/file/d/1OpTlWwDD7U5tk_7o23xmVDENPg7UyPQt/view?usp=sharing
 <br><br><br>
 
 ## 생성된 모드 파일 압축
-mods.zip
+mods_JLee_260306.zip
 
-https://drive.google.com/file/d/1Tw9UWiZZO-AIen8PceenbO9P8tuLhROQ/view?usp=sharing
+https://drive.google.com/file/d/1FBuZkAeSAYxwRhhzMxdh7iv8t46VpW18/view?usp=sharing
 <br><br><br>
 
 ## 모드 파일 저장 위치
